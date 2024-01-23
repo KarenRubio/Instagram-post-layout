@@ -1,0 +1,13 @@
+.post{
+    width: 500px;
+    height: 700px;
+    background-color: red;
+    margin:auto;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.post-header{
+    display: flex;
+}
